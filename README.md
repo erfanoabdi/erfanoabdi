@@ -28,7 +28,7 @@
 
 ### My Top Lang ?
 
-<p>Well , I am new on Github so give time to have a project !</p>
+<p>Well , Here are top langs I used in my projects !</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanoabdi&layout=compact)](https://github.com/erfanoabdi)
 
@@ -44,9 +44,9 @@
 - 📫 How to reach me !?
 - Email is the best way , my email address : Email
 
-<hr>
-
 <!--
+
+<hr>
 
 ### My Friends ?
 <ul>
