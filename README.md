@@ -27,3 +27,4 @@
 [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/khode_erfan)
 [<img src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-tile.svg" width="32">](https://mastodon.social/@khode_erfan)
 [<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/erfanoabdi)
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32">](https://linkedin.com/in/erfan-abdi-31812672/)
