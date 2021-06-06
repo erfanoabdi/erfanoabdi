@@ -3,7 +3,7 @@
 
 ## How's life
 - 📱 I make shiny rectangles run Linux
-- 💻 Currently working on LineageOS, Ubports and Mobian
+- 💻 Currently working on LineageOS, Ubports and Droidian
 - 🩺 Struggling with medicine books
 
 ## What's the weather
