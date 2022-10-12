@@ -2,9 +2,9 @@
 [![erfanoabdi github stats](https://github-readme-stats.vercel.app/api?username=erfanoabdi&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/erfanoabdi)
 
 ## How's life
-- 📱 I make shiny rectangles run Linux
+- 📱 Ask me about LibreMobileOS
 - 💻 Currently working on LineageOS, Ubports and Droidian
-- 🩺 Struggling with medicine books
+- 📚 Struggling with random books
 
 ## What's the weather
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanoabdi&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/erfanoabdi)
